@@ -102,9 +102,9 @@ class Fin extends Human {
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinOCE&layout=compact&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinOCE&layout=compact&theme=default&hide=Jupyter%20Notebook,PLpgSQL">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinOCE&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinOCE&layout=compact&theme=radical&hide=Jupyter%20Notebook,PLpgSQL">
   </a>
 </p>
