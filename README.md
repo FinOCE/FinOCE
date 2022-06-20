@@ -28,7 +28,7 @@
     Pro RL Sideswipe player ⚽🚗
   </li>
   <li>
-    Can't get enough of ✨ Typescript ✨
+    Avid ✨ Typescript ✨ enjoyer
   </li>
 </ul>
 
@@ -51,7 +51,7 @@ class Fin extends Human {
     this.actuallyJustSlackOff()
   }
   
-  // TODO: Find a job in the IT industry (hmu 😉)
+  // TODO: Get a software development job (hmu 😉)
 }
 ```
 
