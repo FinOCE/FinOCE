@@ -19,7 +19,7 @@
 
 <ul>
   <li>
-    Studying a Bachelor of Information Technology at <a href="https://jcu.edu.au"><code>James Cook University</code></a> 🎓
+    Studied a Bachelor of Information Technology (Networking & Computer Science) 🎓
   </li>
   <li>
     Created <a href="https://rlss.gg"><code>RLSS.GG</code></a> and currently working on <a href="https://semifinals.co"><code>Semifinals</code></a> 💻
