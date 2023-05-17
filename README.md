@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  Welcome to my Github profile. I'm Finley Sherwood, otherwise going by Fin. I am a web developer from Queensland, Australia. I love creating things that make others and my life better. I use a variety of modern technologies to create high quality products combining formal and self learning.
+  Welcome to my Github profile. I'm Fin. I am a web developer from Queensland, Australia. I love creating things that make others and my life better. I use a variety of modern technologies to create high quality products combining formal and self learning.
 </p>
 
 <br>
@@ -22,42 +22,12 @@
     Studying a Bachelor of Information Technology at <a href="https://jcu.edu.au"><code>James Cook University</code></a> 🎓
   </li>
   <li>
-    Owner/Developer of <a href="https://rlss.gg"><code>RLSS.GG</code></a> 💻
-  </li>
-  <li>
-    Pro RL Sideswipe player ⚽🚗
+    Created <a href="https://rlss.gg"><code>RLSS.GG</code></a> and currently working on <a href="https://semifinals.co"><code>Semifinals</code></a> 💻
   </li>
   <li>
     Avid ✨ Typescript ✨ enjoyer
   </li>
 </ul>
-
-<br>
-
-```typescript
-class Fin extends Human {
-  private wakeUp(): string {
-    this.awake = true
-    this.checkTime() // 11:19am 😳
-    
-    while (this.awake) {
-      this.doProductiveShit()
-    }
-    
-    return 'to bed'
-  }
-  
-  private doProductiveShit(): void {
-    this.actuallyJustSlackOff()
-  }
-  
-  // TODO: Get a software development job (hmu 😉)
-}
-```
-
-<p>
-  Yea, I'm sure a million people have made this joke, but isn't half of programming just <kbd>CTRL</kbd>+<kbd>C</kbd> and <kbd>CTRL</kbd>+<kbd>V</kbd> anyway?
-</p>
 
 <br>
 <hr>
@@ -79,20 +49,6 @@ class Fin extends Human {
   </a>
   <a href="https://youtube.com/FinRL#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-dark.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/Fin_RL#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-light.svg">
-  </a>
-  <a href="https://twitter.com/Fin_RL#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/finoce#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-light.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/finoce#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg">
   </a>
 </p>
 
