@@ -27,32 +27,72 @@ I'm committed to working on projects that do good for the world, projects that m
 These are some of the technologies I actively use at the moment.
 
 <span>
-  <img width="32px" height="32px" src="assets/technologies/react.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/react-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/react.svg" />
+    <img alt="React" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/tailwindcss.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/tailwindcss-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/tailwindcss.svg" />
+    <img alt="Tailwind" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/typescript.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/typescript-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/typescript.svg" />
+    <img alt="Typescript" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/csharp.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/csharp-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/csharp.svg" />
+    <img alt="C#" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/expo.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/expo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/expo.svg" />
+    <img alt="Expo" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/azurefunctions.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/azurefunctions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/azurefunctions.svg" />
+    <img alt="Azure Functions" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/microsoftsqlserver.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/microsoftsqlserver-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/microsoftsqlserver.svg" />
+    <img alt="SQL Server" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/microsoftazure.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/microsoftazure-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/microsoftazure.svg" />
+    <img alt="Azure" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/github.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/github.svg" />
+    <img alt="Github" />
+  </picture>
 </span>
 <span>
-  <img width="32px" height="32px" src="assets/technologies/visualstudio.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" width="32px" height="32px" srcset="assets/technologies/visualstudio-dark.svg" />
+    <source media="(prefers-color-scheme: light)" width="32px" height="32px" srcset="assets/technologies/visualstudio.svg" />
+    <img alt="Visual Studio" />
+  </picture>
 </span>
