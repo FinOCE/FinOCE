@@ -1,7 +1,9 @@
 <img src="assets/banner.jpg" />
 
+# Hi, it's Fin.
+
 <p>
-Hi, it's Fin. I am a 21 year old IT Graduate and software developer with a passion for creating amazing systems that do real good for the world.
+I am a 21 year old IT Graduate and software developer with a passion for creating amazing systems that do real good for the world.
 </p>
 
 <p>
@@ -11,6 +13,14 @@ Working on research-focused software projects has been a rewarding journey that 
 <p>
 I'm committed to working on projects that do good for the world, projects that make a lasting difference. If you share my passion for combining technology with a purpose, let's connect and collaborate to create a better future together.
 </p>
+
+## 📃 What I've Done
+
+<ul>
+  <li>Graduated with a Bachelor of Information Technology (Networking & Computer Science) 🎓</li>
+  <li>Created <a href="https://rlss.gg"><code>RLSS.GG</code></a> and currently working on <a href="https://semifinals.co"><code>Semifinals</code></a> 💻</li>
+  <li>Worked on several medical and marine biology research projects 🏫</li>
+</ul>
 
 ## 🖥️ Technologies
 
