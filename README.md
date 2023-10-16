@@ -16,13 +16,33 @@ I'm committed to working on projects that do good for the world, projects that m
 
 These are some of the technologies I actively use at the moment.
 
-<img width="32px" height="32px" src="assets/technologies/react.svg" />
-<img width="32px" height="32px" src="assets/technologies/tailwindcss.svg" />
-<img width="32px" height="32px" src="assets/technologies/typescript.svg" />
-<img width="32px" height="32px" src="assets/technologies/csharp.svg" />
-<img width="32px" height="32px" src="assets/technologies/expo.svg" />
-<img width="32px" height="32px" src="assets/technologies/azurefunctions.svg" />
-<img width="32px" height="32px" src="assets/technologies/microsoftsqlserver.svg" />
-<img width="32px" height="32px" src="assets/technologies/microsoftazure.svg" />
-<img width="32px" height="32px" src="assets/technologies/github.svg" />
-<img width="32px" height="32px" src="assets/technologies/visualstudio.svg" />
+<span>
+  <img width="32px" height="32px" src="assets/technologies/react.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/tailwindcss.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/typescript.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/csharp.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/expo.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/azurefunctions.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/microsoftsqlserver.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/microsoftazure.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/github.svg" />
+</span>
+<span>
+  <img width="32px" height="32px" src="assets/technologies/visualstudio.svg" />
+</span>
