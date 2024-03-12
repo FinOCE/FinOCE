@@ -7,10 +7,6 @@ I am a 21 year old IT Graduate and software developer with a passion for creatin
 </p>
 
 <p>
-Working on research-focused software projects has been a rewarding journey that has deepened my understanding of the critical roles technology plays in these fields. I've gained invaluable insights into the complexities of healthcare systems, effective collaboration, and the significance of user-centric design. This experience has not only honed my technical skills but has also instilled a profound sense of responsibility in ensuring the privacy and well-being of the users and their personal information. I've had the privilege of collaborating with doctors, marine biologists, and specialists in their fields to create software that aids in important and valuable research.
-</p>
-
-<p>
 I'm committed to working on projects that do good for the world, projects that make a lasting difference. If you share my passion for combining technology with a purpose, let's connect and collaborate to create a better future together.
 </p>
 
@@ -18,8 +14,9 @@ I'm committed to working on projects that do good for the world, projects that m
 
 <ul>
   <li>Graduated with a Bachelor of Information Technology (Networking & Computer Science) 🎓</li>
+  <li>Worked on several research projects while studying 🏫</li>
   <li>Created <a href="https://rlss.gg"><code>RLSS.GG</code></a> and currently working on <a href="https://semifinals.co"><code>Semifinals</code></a> 💻</li>
-  <li>Worked on several medical and marine biology research projects 🏫</li>
+  <li>Currently working for the Australian Government 🏛</li>
 </ul>
 
 ## 🖥️ Technologies
