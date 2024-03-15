@@ -3,7 +3,7 @@
 # Hi, it's Fin.
 
 <p>
-I am a 21 year old IT Graduate and software developer with a passion for creating amazing systems that do real good for the world.
+I am a 22 year old IT Graduate and software developer with a passion for creating amazing systems that do real good for the world.
 </p>
 
 <p>
