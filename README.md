@@ -3,19 +3,15 @@
 # Hi, it's Fin.
 
 <p>
-I am a 22 year old IT Graduate and software developer with a passion for creating amazing systems that do real good for the world.
-</p>
-
-<p>
-I'm committed to working on projects that do good for the world, projects that make a lasting difference. If you share my passion for combining technology with a purpose, let's connect and collaborate to create a better future together.
+I am a 22-year-old Australian software developer who wrangles legacy code and writes soon-to-be-legacy code.
 </p>
 
 ## 📃 What I've Done
 
 <ul>
   <li>Graduated with a Bachelor of Information Technology (Networking & Computer Science) 🎓</li>
-  <li>Worked on several research projects while studying 🏫</li>
-  <li>Created <a href="https://rlss.gg"><code>RLSS.GG</code></a> and currently working on <a href="https://semifinals.co"><code>Semifinals</code></a> 💻</li>
+  <li>Founded <a href="https://rlss.gg"><code>RLSS.GG</code></a> and now creating <a href="https://github.com/FinOCE/Modkit"><code>Modkit</code></a> 💻</li>
+  <li>Won the 2024 DDevs Activity Buildathon 🏅</li>
   <li>Currently working for the Australian Government 🏛</li>
 </ul>
 
@@ -70,14 +66,6 @@ Here are some of the technologies I actively use at the moment!
       <source media="(prefers-color-scheme: dark)" width="40px" height="40px" srcset="assets/technologies/azurefunctions-dark.svg" />
       <source media="(prefers-color-scheme: light)" width="40px" height="40px" srcset="assets/technologies/azurefunctions.svg" />
       <img alt="Azure Functions" />
-    </picture>
-  </span>
-  &nbsp;
-  <span title="SQL Server">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" width="40px" height="40px" srcset="assets/technologies/microsoftsqlserver-dark.svg" />
-      <source media="(prefers-color-scheme: light)" width="40px" height="40px" srcset="assets/technologies/microsoftsqlserver.svg" />
-      <img alt="SQL Server" />
     </picture>
   </span>
   &nbsp;
